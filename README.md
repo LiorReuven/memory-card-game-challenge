@@ -4,4 +4,4 @@ This project is based on a challenge to make a memory card game in react with ty
 
 ## Challenge finished in 29:25 minutes
 
-
+![MemoryGamePhoto](src/images/image.png)
